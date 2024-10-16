@@ -1,5 +1,7 @@
 Quran Verse Reminder App
+
 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ
+
 1) Introduction
 With our busy lives, trying to balance between work, family, hobbies, and interests, sometimes we forget to focus on what matters the most -- Allah and His Word, the Qur'an.
 With that thought in mind, I decided to create this simple app, which prompts us to read the Qur'an.
